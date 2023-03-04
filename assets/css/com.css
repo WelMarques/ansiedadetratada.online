@@ -1,8 +1,7 @@
 .headline{
   max-width: 100%;
   height: auto;
-  margin: auto;
-  width:100%;
+  position: relative;
 }
 
 
